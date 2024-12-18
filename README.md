@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://<username>.github.io/<project-name>/)
+[GitHub Pages](https://nfig-stack.github.io/nf/sample2.html)
 
 ## 今後の課題
 - データを動的に更新する。
